@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>cloud.png</file>
+        <file>sun.jpg</file>
+        <file>Longtrack.PNG</file>
+        <file>explosion.gif</file>
+        <file>frontBack.jpg</file>
+        <file>car3.png</file>
+        <file>car2.png</file>
+        <file>car1.png</file>
+        <file>car4.png</file>
+        <file>boost.png</file>
+        <file>carby.mp3</file>
+        <file>cloudrain.mp3</file>
+        <file>flash.mp3</file>
+        <file>f1race.mp3</file>
+        <file>carrrunning.mp3</file>
+    </qresource>
+</RCC>
